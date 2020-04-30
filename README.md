@@ -1,2 +1,0 @@
-# clickGame
-Created with CodeSandbox
